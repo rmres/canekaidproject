@@ -1,0 +1,15 @@
+D:\C#\Visual Studio 2019\Canekaid\bin\Debug\Canekaid.exe.config
+D:\C#\Visual Studio 2019\Canekaid\bin\Debug\Canekaid.exe
+D:\C#\Visual Studio 2019\Canekaid\bin\Debug\Canekaid.pdb
+D:\C#\Visual Studio 2019\Canekaid\bin\Debug\NAudio.dll
+D:\C#\Visual Studio 2019\Canekaid\bin\Debug\NAudio.xml
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.csprojAssemblyReference.cache
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.Form1.resources
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.F_Musicas.resources
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.Properties.Resources.resources
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.csproj.GenerateResource.cache
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.csproj.CoreCompileInputs.cache
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.csproj.CopyComplete
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.exe
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.pdb
+D:\C#\Visual Studio 2019\Canekaid\obj\Debug\Canekaid.F_Membros.resources

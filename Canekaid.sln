@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canekaid", "Canekaid.csproj", "{A18352DE-176C-4641-B44D-D10739E2C697}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CanekaidInstall", "Setup\CanekaidInstall\CanekaidInstall.vdproj", "{4CBAA79E-DD8C-4B27-9D62-4E147EFBF88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18352DE-176C-4641-B44D-D10739E2C697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18352DE-176C-4641-B44D-D10739E2C697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18352DE-176C-4641-B44D-D10739E2C697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18352DE-176C-4641-B44D-D10739E2C697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBAA79E-DD8C-4B27-9D62-4E147EFBF88D}.Debug|Any CPU.ActiveCfg = Debug
+		{4CBAA79E-DD8C-4B27-9D62-4E147EFBF88D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC168941-EAA8-40EB-8190-4F92EEE6B601}
+	EndGlobalSection
+EndGlobal
